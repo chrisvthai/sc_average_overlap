@@ -1,0 +1,32 @@
+
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sc_average_overlap"
+version = "1.0.0"
+description = "A tool for comparing populations in single-cell RNA-seq data with average overlap of marker gene lists"
+readme = "README.md"
+authors = [ {name = "Christopher Thai", email = "ct647@iqb.rutgers.edu"} ]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics"
+]
+keywords = ["scRNA-seq"]
+dependencies = [
+	"scanpy",
+	"anndata",
+	"numpy",
+	"pandas",
+	"scipy",
+	"seaborn"
+]
+requires-python = ">=3.9"
+
+
+

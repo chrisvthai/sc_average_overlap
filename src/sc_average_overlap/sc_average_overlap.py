@@ -96,7 +96,6 @@ def make_ao_dendrogram(
 	zscore_heatmap = make_zscore(ao_heatmap)
 
 	dat_ao = dict(
-		average_method = average_method,
 		ao_heatmap = ao_heatmap,
 		zscore_heatmap = zscore_heatmap,
 		mu = mu,
@@ -194,7 +193,7 @@ def plot_ao_heatmap(
 
 	dat_ao = adata.uns[ao_key]
 	dat_dendro = adata.uns[dendrogram_key]
-	if zscores:
+	if plot_zscores:
 		heatmap = dat_ao['zscore_heatmap']
 	else:
 		heatmap = dat_ao['ao_heatmap']

@@ -76,7 +76,7 @@ You can plot a heatmap of all pairwise average overlap scores computed by callin
 
 You can also plot the distances converted into z-scores. Average overlap follows a normal distribution when calculated on conjoint ranked lists - that is, the two ranked lists contain the same elements, just ranked differently. This gives a statistical interpretation of the resulting average overlap score. Only do this when specifying a specific marker gene set to base cluster rankings from, performed through providing a list of genes to the *genes_to_filter* argument when calling `make_ao_dendrogram`.
 
-An exapmle function call:
+An example function call:
 ```
 ao.plot_ao_heatmap(adata, key='leiden')
 ao.plot_ao_heatmap(adata, key='leiden', plot_zscores=True)

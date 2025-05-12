@@ -82,6 +82,51 @@ ao.plot_ao_heatmap(adata, key='leiden')
 ao.plot_ao_heatmap(adata, key='leiden', plot_zscores=True)
 ```
 
+### *get_cluster_markers()*
+```
+def get_cluster_markers(
+	adata: AnnData,
+	cluster_label: str,
+	genes_to_filter: List = None,
+	n_genes: int = 50,
+	key: str = 'rank_genes_groups'
+)
+```
+
+A helper function for extracting marker genes for a given cluster. Given sc.tl.rank_genes_groups() has already been run for one-vs-rest differential expression, retrieve markers of the given cluster as a list.
+
+If a list of genes is specified, then this gives a list of those genes ranked by their differential expression for that cluster.
+
+
+An example function call:
+```
+marker_genes = ao.get_cluster_markers(adata, cluster_label='0', n_genes=25)
+
+## Or, just give a cluster's rankings (according to differential expression) of a preset gene list
+genes_to_use = ['geneA', 'geneB', 'geneC']
+marker_genes = ao.get_cluster_markers(adata, cluster_label='0', genes_to_filter=genes_to_use)
+```
+
+### *get_all_cluster_markers()*
+```
+def get_all_cluster_markers(
+	adata: AnnData,
+	groupby: str,
+	n_genes: int = 50
+):
+```
+
+An extension of `get_cluster_markers()`, which returns a combined list of every cluster's top *n_genes* marker genes, given that a partitioning has already been computed, such as through Leiden or Louvain clustering.
+
+
+An example function call:
+```
+all_markers = ao.get_all_cluster_markers(adata, groupby='leiden', n_genes=25)
+
+# Once a combined list of cluster markers is generated, we can see how they are ranked and base average overlap scores off of these rankings
+ao.make_ao_dendrogram(adata, groupby='leiden', genes_to_filter=all_markers)
+```
+
 
 ## Authors
 

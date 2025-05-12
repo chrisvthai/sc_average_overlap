@@ -51,6 +51,26 @@ def get_cluster_markers(
 		n_genes = len(all_markers)
 	return all_markers[:n_genes]
 
+def get_all_cluster_markers(
+	adata: AnnData,
+	groupby: str,
+	n_genes: int = 50
+):
+	"""
+	A helper function that returns the list of all cluster's top genes
+
+	Given sc.tl.rank_genes_groups() has already been run for one-vs-rest differential expression,
+	retrieve markers of the each cluster and combine into a single list
+
+	For the purposes of the 'genes_to_filter' argument of make_ao_dendrogram()
+	"""
+	marker_set = set()
+	for c in adata.obs[groupby].cat.categories:
+    	marker_set.update(get_cluster_markers(adata, cluster_label=c, n_genes=n_genes ))
+    marker_set = list(marker_set)
+
+    return marker_set
+
 def make_ao_dendrogram(
 	adata: AnnData,
 	groupby: str,

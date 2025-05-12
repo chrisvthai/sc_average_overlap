@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sc_average_overlap"
-version = "1.0.3"
+version = "1.0.4"
 description = "A tool for comparing populations in single-cell RNA-seq data with average overlap of marker gene lists"
 readme = "README.md"
 authors = [ {name = "Christopher Thai", email = "ct647@iqb.rutgers.edu"} ]

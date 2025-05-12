@@ -3,3 +3,4 @@ scr/sc_average_overlap/__pycache__
 dist/
 __pycache__/
 venv/
+/examples/.ipynb_checkpoints

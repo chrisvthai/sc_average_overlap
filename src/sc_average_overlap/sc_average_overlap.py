@@ -66,10 +66,10 @@ def get_all_cluster_markers(
 	"""
 	marker_set = set()
 	for c in adata.obs[groupby].cat.categories:
-    	marker_set.update(get_cluster_markers(adata, cluster_label=c, n_genes=n_genes ))
-    marker_set = list(marker_set)
+		marker_set.update(get_cluster_markers(adata, cluster_label=c, n_genes=n_genes ))
+	marker_set = list(marker_set)
 
-    return marker_set
+	return marker_set
 
 def make_ao_dendrogram(
 	adata: AnnData,

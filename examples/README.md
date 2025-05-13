@@ -7,4 +7,6 @@ The first two pertain to the main figures presented in the manuscript. First, an
 
 Second, a Python notebook that reproduces all figures for the thymocyte analysis is given. Code and instructions are provided for running Piccolo normalization and feature selection within an R environment using `rpy2`, however, the bulk of analysis implemented in this example notebook uses Piccolo counts saved to an external CSV file. This pertains to Figure 2 in our paper.
 
+An additional script was used to demonstrate the normal distribution of average overlap when computed on two conjoint ranked lists. This pertains to Supplementary Figure 1 in our paper.
+
 Lastly, an example tutorial that goes through a simple workflow for scRNA-seq analysis of PBMCS incorporating average overlap can be found in `3kpbmcs_tutorial.ipynb`. 

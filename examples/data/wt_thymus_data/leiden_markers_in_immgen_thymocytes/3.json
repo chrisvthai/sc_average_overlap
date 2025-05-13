@@ -1,0 +1,4741 @@
+{
+  "rownum": 48,
+  "rowLabel": [
+    "Atp8b4",
+    "Bst2",
+    "Cdk6",
+    "Crip1",
+    "Ctla2a",
+    "Gm4632",
+    "Gm5111",
+    "Hdac4",
+    "Hes1",
+    "Ifitm2",
+    "Il2ra",
+    "Mta3",
+    "Myl10",
+    "Notch1",
+    "Pdrg1",
+    "Plac8",
+    "Ppt1",
+    "Rpl13",
+    "Rpl17",
+    "Rpl18",
+    "Rpl18a",
+    "Rpl21",
+    "Rpl23",
+    "Rpl27a",
+    "Rpl3",
+    "Rpl30",
+    "Rpl32",
+    "Rpl36",
+    "Rpl36a",
+    "Rpl37",
+    "Rpl39",
+    "Rpl9",
+    "Rplp0",
+    "Rps10",
+    "Rps14",
+    "Rps15a",
+    "Rps18",
+    "Rps19",
+    "Rps20",
+    "Rps24",
+    "Rps26",
+    "Rps27a",
+    "Rps28",
+    "Rps3a1",
+    "Rps5",
+    "Rps7",
+    "Rps9",
+    "Tmem121"
+  ],
+  "colLabel": [
+    "MMP4_135+_BM",
+    "preT_DN1_Th",
+    "preT_DN2a_Th",
+    "preT_DN2b_Th",
+    "preT_DN3_Th",
+    "T_DN4_Th",
+    "T_ISP_Th",
+    "T_DP_Th",
+    "T_4_Th",
+    "T_8_Th",
+    "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+    "Tgd_g1_1+d1_24a+_Th"
+  ],
+  "data": [
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 249.02,
+      "norm_value": -1.3494612786435074
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1579.4,
+      "norm_value": 1.3150939037990537
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1776.5400000000002,
+      "norm_value": 1.4847773448557167
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1699.3200000000002,
+      "norm_value": 1.420668415490106
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 529.4499999999999,
+      "norm_value": -0.2615352185608406
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 145.82,
+      "norm_value": -2.1211244935578026
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 20.06,
+      "norm_value": -4.976734584222628
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 10.93,
+      "norm_value": -5.846797432131162
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 23.93,
+      "norm_value": -4.723393574592678
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 401.02,
+      "norm_value": -0.662268226888605
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 564.31,
+      "norm_value": -0.16955857889383105
+    },
+    {
+      "gene_symbol": "Atp8b4",
+      "row_id": 1,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 616.6,
+      "norm_value": -0.04173328185716413
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 197.4,
+      "norm_value": -0.40219715350541935
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 295.09,
+      "norm_value": 0.17759404199212853
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 400.38,
+      "norm_value": 0.6176803893437227
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 352.98999999999995,
+      "norm_value": 0.43598615575037786
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 320.65999999999997,
+      "norm_value": 0.2974444366196253
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 231.95000000000002,
+      "norm_value": -0.16961410928705495
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 156.89000000000001,
+      "norm_value": -0.733377142008738
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 49.36,
+      "norm_value": -2.3997156619546716
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 198.79,
+      "norm_value": -0.39207906613425964
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 315.38,
+      "norm_value": 0.27349874099459276
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 476.23999999999995,
+      "norm_value": 0.8679418953365484
+    },
+    {
+      "gene_symbol": "Bst2",
+      "row_id": 2,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 135.64000000000001,
+      "norm_value": -0.9432038885578939
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 4352.5,
+      "norm_value": 0.12300318507728841
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 7288.48,
+      "norm_value": 0.8667635096201566
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 10587.5,
+      "norm_value": 1.4054294320079967
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 9240.26,
+      "norm_value": 1.2090748006721495
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 6906,
+      "norm_value": 0.7889969657262873
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 3855.9100000000003,
+      "norm_value": -0.051765465779859195
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2250.34,
+      "norm_value": -0.8286671578815578
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 523.34,
+      "norm_value": -2.9327781778468354
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 365.72999999999996,
+      "norm_value": -3.4496289650774514
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 570.9399999999999,
+      "norm_value": -2.8072105471597193
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 212.25,
+      "norm_value": -4.234358244973978
+    },
+    {
+      "gene_symbol": "Cdk6",
+      "row_id": 3,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1808.13,
+      "norm_value": -1.144296064008102
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 235.36,
+      "norm_value": -2.1083095470765216
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1012.93,
+      "norm_value": -0.003186548543512662
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2292.17,
+      "norm_value": 1.1749135376012176
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 3092,
+      "norm_value": 1.6067235299975147
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1446.7800000000002,
+      "norm_value": 0.5110818264488002
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 882.86,
+      "norm_value": -0.2014434602133574
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 617.36,
+      "norm_value": -0.7174458626174763
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 77.02000000000001,
+      "norm_value": -3.718614585677527
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 109.94000000000001,
+      "norm_value": -3.205763497591278
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 360.76,
+      "norm_value": -1.4923523076844498
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 801.27,
+      "norm_value": -0.34132304015277326
+    },
+    {
+      "gene_symbol": "Crip1",
+      "row_id": 4,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1253.5800000000002,
+      "norm_value": 0.30430570184359573
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 1279.5900000000001,
+      "norm_value": 1.6525873283597932
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 905.9399999999999,
+      "norm_value": 1.1544396122804583
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1079.0700000000002,
+      "norm_value": 1.4067151114291014
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 835.23,
+      "norm_value": 1.037211120120729
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 65.11,
+      "norm_value": -2.6419700068827825
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2.5,
+      "norm_value": -7.290479698251308
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 1.5799999999999998,
+      "norm_value": -7.920530088501002
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 2.86,
+      "norm_value": -7.103394145650813
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 75.81,
+      "norm_value": -2.422773275099458
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 15.06,
+      "norm_value": -4.746793473108671
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 609.68,
+      "norm_value": 0.5831537008508709
+    },
+    {
+      "gene_symbol": "Ctla2a",
+      "row_id": 5,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 10.790000000000001,
+      "norm_value": -5.224059272562855
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 0.56,
+      "norm_value": -6.442440902204597
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 2.82,
+      "norm_value": -4.297010462683033
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 9.39,
+      "norm_value": -2.596570744541941
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 188.28,
+      "norm_value": 1.7145231624676178
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 474.26,
+      "norm_value": 3.04685971897772
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 4.640000000000001,
+      "norm_value": -3.5980917726647914
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 1.49,
+      "norm_value": -5.173952066278695
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 1.5,
+      "norm_value": -5.164906926675688
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 0.39,
+      "norm_value": -6.872125177447843
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 3.03,
+      "norm_value": -4.196816174630432
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1.27,
+      "norm_value": -5.388802938602524
+    },
+    {
+      "gene_symbol": "Gm4632",
+      "row_id": 6,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 0,
+      "norm_value": -9.16490692667569
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 257.62,
+      "norm_value": 2.1153279473690128
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 97.28,
+      "norm_value": 0.7112208532167089
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 58.9,
+      "norm_value": -0.01168969291585278
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 210.04,
+      "norm_value": 1.8208742516258738
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 82.88000000000001,
+      "norm_value": 0.4803590098192318
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2.12,
+      "norm_value": -4.743773065702313
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 0,
+      "norm_value": -9.216260837165056
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 0,
+      "norm_value": -9.216260837165056
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 0,
+      "norm_value": -9.216260837165056
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 0,
+      "norm_value": -9.216260837165056
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 0,
+      "norm_value": -9.216260837165056
+    },
+    {
+      "gene_symbol": "Gm5111",
+      "row_id": 7,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 3.79,
+      "norm_value": -3.934562587066227
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 477.51,
+      "norm_value": -1.2203282695345723
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 497.15999999999997,
+      "norm_value": -1.1621609287614398
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 691.49,
+      "norm_value": -0.6862443044264537
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1767.17,
+      "norm_value": 0.6672892506945138
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 4901.929999999999,
+      "norm_value": 2.1391460952844605
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 997.7099999999999,
+      "norm_value": -0.15739618497008798
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 813.03,
+      "norm_value": -0.45267528990124345
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 297.66999999999996,
+      "norm_value": -1.901962901700842
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 490.69,
+      "norm_value": -1.1810554590667817
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 861.81,
+      "norm_value": -0.36862408096593374
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 300.91999999999996,
+      "norm_value": -1.8863019690676501
+    },
+    {
+      "gene_symbol": "Hdac4",
+      "row_id": 8,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1255.66,
+      "norm_value": 0.17432754555995778
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 0.7100000000000001,
+      "norm_value": -6.14597930581728
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 144.37,
+      "norm_value": 1.3326530110152253
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 113.54,
+      "norm_value": 0.9863538074876365
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 73.19000000000001,
+      "norm_value": 0.3535713402865077
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 262.34999999999997,
+      "norm_value": 2.1939256683962354
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 44.79,
+      "norm_value": -0.3536509277863598
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 11.280000000000001,
+      "norm_value": -2.333544466395323
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 1.0999999999999999,
+      "norm_value": -5.578938713093387
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 0,
+      "norm_value": -9.163901213814542
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 0.23,
+      "norm_value": -7.441435189343451
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2.5,
+      "norm_value": -4.46346149567345
+    },
+    {
+      "gene_symbol": "Hes1",
+      "row_id": 9,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 33.1,
+      "norm_value": -0.7888617824676176
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 365.94,
+      "norm_value": 1.746614706117366
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 380.9,
+      "norm_value": 1.8044043923527835
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 264.64,
+      "norm_value": 1.2791895850921022
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 166.11,
+      "norm_value": 0.607620578886863
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 59.65,
+      "norm_value": -0.8683759871597901
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 18.959999999999997,
+      "norm_value": -2.5167665810053217
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 3.73,
+      "norm_value": -4.831898402990306
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 0,
+      "norm_value": -10.091170890027902
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 3.9899999999999998,
+      "norm_value": -4.7371419519735145
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 0.44000000000000006,
+      "norm_value": -7.6582114827517955
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 35.71,
+      "norm_value": -1.6069521815947387
+    },
+    {
+      "gene_symbol": "Ifitm2",
+      "row_id": 10,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 7.71,
+      "norm_value": -3.8039202467732847
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 0.35,
+      "norm_value": -10.15172128954907
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 166.21,
+      "norm_value": -1.6219870877542415
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2322.05,
+      "norm_value": 2.1815272551054896
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2129.84,
+      "norm_value": 2.0568788791398602
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1356.44,
+      "norm_value": 1.4059976772400062
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 28.669999999999998,
+      "norm_value": -4.153224880139456
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 5.96,
+      "norm_value": -6.4004004024057926
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 35.32,
+      "norm_value": -3.8532258891268296
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 42.49,
+      "norm_value": -3.587275371328406
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 15.24,
+      "norm_value": -5.060491618375811
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 16.22,
+      "norm_value": -4.971149043907248
+    },
+    {
+      "gene_symbol": "Il2ra",
+      "row_id": 11,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 22.779999999999998,
+      "norm_value": -4.483703049100354
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 420.21,
+      "norm_value": -0.6818512318911962
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1259.0600000000002,
+      "norm_value": 0.9010846978406154
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1746.66,
+      "norm_value": 1.3733044811074822
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1598.38,
+      "norm_value": 1.245323774945859
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 805.39,
+      "norm_value": 0.25656166493115184
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 512.11,
+      "norm_value": -0.3965695940412019
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 283.28999999999996,
+      "norm_value": -1.2505161626492485
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 160.75,
+      "norm_value": -2.067589077345904
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 127.52000000000001,
+      "norm_value": -2.4014505742041763
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 240.99,
+      "norm_value": -1.4837332016727953
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 388.29999999999995,
+      "norm_value": -0.79576181257945
+    },
+    {
+      "gene_symbol": "Mta3",
+      "row_id": 12,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 547.3199999999999,
+      "norm_value": -0.30065686878033826
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 39.37,
+      "norm_value": -0.5455627385861265
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 28.619999999999997,
+      "norm_value": -1.0042635086561784
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 116.10000000000001,
+      "norm_value": 1.0122189058126614
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 254.22,
+      "norm_value": 2.1422537586587462
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 199.09,
+      "norm_value": 1.7897540582084261
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 16.79,
+      "norm_value": -1.7701499296778442
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 7.4,
+      "norm_value": -2.941356757095987
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 5.42,
+      "norm_value": -3.383579085701061
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 8.77,
+      "norm_value": -2.699313248178166
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 3.42,
+      "norm_value": -4.032671923841932
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2.86,
+      "norm_value": -4.2826501768502805
+    },
+    {
+      "gene_symbol": "Myl10",
+      "row_id": 13,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 8.06,
+      "norm_value": -2.8196782005077345
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 332.67999999999995,
+      "norm_value": -1.1609471768021544
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1047.0600000000002,
+      "norm_value": 0.4928940822154759
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 813.5699999999999,
+      "norm_value": 0.12892789228277815
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1210.99,
+      "norm_value": 0.7027182679674805
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1952.71,
+      "norm_value": 1.3919637756753511
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 920.7099999999999,
+      "norm_value": 0.30738759397594667
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 779.66,
+      "norm_value": 0.06751424224844622
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 292.21,
+      "norm_value": -1.3480167222975186
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 311.59999999999997,
+      "norm_value": -1.255357752289463
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 364.25,
+      "norm_value": -1.0301909165578098
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 621.99,
+      "norm_value": -0.25839259191160535
+    },
+    {
+      "gene_symbol": "Notch1",
+      "row_id": 14,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 280.71999999999997,
+      "norm_value": -1.405870219212457
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 429.53999999999996,
+      "norm_value": -0.05164929556359114
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 495.06,
+      "norm_value": 0.15311716373168463
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 466.10999999999996,
+      "norm_value": 0.06620233819364606
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 818.22,
+      "norm_value": 0.8778875005010139
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 789.22,
+      "norm_value": 0.8258326932977601
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 440.12,
+      "norm_value": -0.016552920787227404
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 337.27,
+      "norm_value": -0.4004459214259491
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 207.19,
+      "norm_value": -1.103127091563073
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 312.07,
+      "norm_value": -0.512445712936606
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 316.48999999999995,
+      "norm_value": -0.49216192540949877
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 433.47999999999996,
+      "norm_value": -0.03847940159799862
+    },
+    {
+      "gene_symbol": "Pdrg1",
+      "row_id": 15,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 297.67999999999995,
+      "norm_value": -0.5805307513119894
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2148.21,
+      "norm_value": 0.33359969024519387
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 4278.79,
+      "norm_value": 1.3276340929753243
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 6741.629999999999,
+      "norm_value": 1.9835163516547183
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 4487.44,
+      "norm_value": 1.3963223003223666
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 895.97,
+      "norm_value": -0.927919154690194
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 522,
+      "norm_value": -1.7072044344347757
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 171.67000000000002,
+      "norm_value": -3.311052504435588
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 0,
+      "norm_value": -14.057314877782705
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 0,
+      "norm_value": -14.057314877782705
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 180.64000000000001,
+      "norm_value": -3.237614765305271
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 244.57,
+      "norm_value": -2.8006933756613863
+    },
+    {
+      "gene_symbol": "Plac8",
+      "row_id": 16,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 785.48,
+      "norm_value": -1.1177723924243608
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 570,
+      "norm_value": -1.141340328148923
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 709.5799999999999,
+      "norm_value": -0.8253866803278663
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1493.1100000000001,
+      "norm_value": 0.24778984075568256
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2708.12,
+      "norm_value": 1.106717705072942
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 3434.39,
+      "norm_value": 1.449468649144298
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 949.65,
+      "norm_value": -0.4050075227295995
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 695.53,
+      "norm_value": -0.8542351774268923
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 2088.4900000000002,
+      "norm_value": 0.7319020776722165
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 725.5699999999999,
+      "norm_value": -0.7932417009559253
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 489.22999999999996,
+      "norm_value": -1.3617475949289328
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 672.84,
+      "norm_value": -0.9020774511755418
+    },
+    {
+      "gene_symbol": "Ppt1",
+      "row_id": 17,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 553,
+      "norm_value": -1.1850149875660592
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 1855.89,
+      "norm_value": 0.1486912032821551
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1824.19,
+      "norm_value": 0.12383735310548902
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1703.1200000000001,
+      "norm_value": 0.02476706177627864
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1474.21,
+      "norm_value": -0.18345782530053334
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1737.63,
+      "norm_value": 0.05370620663480303
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2248.13,
+      "norm_value": 0.4252919006863178
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2011.72,
+      "norm_value": 0.2650034972038532
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 317.34999999999997,
+      "norm_value": -2.3988964509843282
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 845.9,
+      "norm_value": -0.9847681655631427
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1236.0600000000002,
+      "norm_value": -0.43763224622588587
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3641.4100000000003,
+      "norm_value": 1.121039072936974
+    },
+    {
+      "gene_symbol": "Rpl13",
+      "row_id": 18,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1193.93,
+      "norm_value": -0.4876586492545465
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 796.91,
+      "norm_value": -0.04888667193249774
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 786.64,
+      "norm_value": -0.06759756159763917
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 635.15,
+      "norm_value": -0.3761600273249494
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 586.41,
+      "norm_value": -0.4913287911785796
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 657.62,
+      "norm_value": -0.3260109570832279
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 846.09,
+      "norm_value": 0.03749713888759341
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 790.76,
+      "norm_value": -0.06006216976004042
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 154.63,
+      "norm_value": -2.4137315551464487
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 449.51,
+      "norm_value": -0.8748103739887592
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 585.59,
+      "norm_value": -0.49334723534595665
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3123.65,
+      "norm_value": 1.921722593595762
+    },
+    {
+      "gene_symbol": "Rpl17",
+      "row_id": 19,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 479.65,
+      "norm_value": -0.781201691182924
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 737.42,
+      "norm_value": -0.17006409828275887
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 818.03,
+      "norm_value": -0.020416166934500726
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 790.52,
+      "norm_value": -0.06976182014507226
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 737.4,
+      "norm_value": -0.17010322168558667
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 877.1,
+      "norm_value": 0.08015954096407842
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 935.93,
+      "norm_value": 0.17380849824590786
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 920.23,
+      "norm_value": 0.14940498577256356
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 247.28,
+      "norm_value": -1.7460174039876566
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 436.22999999999996,
+      "norm_value": -0.9273266009926564
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 635.4,
+      "norm_value": -0.3848541458171937
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2306.09,
+      "norm_value": 1.4746932009951996
+    },
+    {
+      "gene_symbol": "Rpl18",
+      "row_id": 20,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 514.66,
+      "norm_value": -0.6888463193608063
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 3090.9500000000003,
+      "norm_value": 0.12892207329545208
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 3179.56,
+      "norm_value": 0.1696975891103248
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2760,
+      "norm_value": -0.03445438012347867
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2083.8,
+      "norm_value": -0.43988886899325913
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 2074.36,
+      "norm_value": -0.44643907848987524
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 3279.48,
+      "norm_value": 0.21433614993473013
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 3201.9900000000002,
+      "norm_value": 0.17983893999883724
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 617.17,
+      "norm_value": -2.1952013361257148
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 1369.3300000000002,
+      "norm_value": -1.0455993948388345
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1889.7,
+      "norm_value": -0.5809413575131385
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 8546.13,
+      "norm_value": 1.5961132262622943
+    },
+    {
+      "gene_symbol": "Rpl18a",
+      "row_id": 21,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1828.0700000000002,
+      "norm_value": -0.6287746860998008
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 955.06,
+      "norm_value": 0.05793992092161431
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 744.85,
+      "norm_value": -0.30065890289595687
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 700.88,
+      "norm_value": -0.388429217459005
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 794.8299999999999,
+      "norm_value": -0.2069746749987826
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 787.5799999999999,
+      "norm_value": -0.22019285536549502
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 931.4599999999999,
+      "norm_value": 0.021846193340106176
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 940.77,
+      "norm_value": 0.03619289951115006
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 143.23000000000002,
+      "norm_value": -2.6784618923949326
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 508.53,
+      "norm_value": -0.8511859425160008
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 650.75,
+      "norm_value": -0.495477413175103
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3166.8,
+      "norm_value": 1.7871969074877303
+    },
+    {
+      "gene_symbol": "Rpl21",
+      "row_id": 22,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 684.8299999999999,
+      "norm_value": -0.4218459482014259
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 769.4,
+      "norm_value": -0.08225903742978444
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 764.6899999999999,
+      "norm_value": -0.09111670447832197
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 730.76,
+      "norm_value": -0.15658528701128419
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 545.26,
+      "norm_value": -0.5789714758274597
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 597.16,
+      "norm_value": -0.44782125987322857
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 727.18,
+      "norm_value": -0.16366946085493017
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 686.9,
+      "norm_value": -0.24587026493989453
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 145.61,
+      "norm_value": -2.4830804717878414
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 410.82,
+      "norm_value": -0.9873228139629079
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 564.5,
+      "norm_value": -0.528951235195664
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3303.98,
+      "norm_value": 2.019996349321866
+    },
+    {
+      "gene_symbol": "Rpl23",
+      "row_id": 23,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 528.4,
+      "norm_value": -0.6242768923753117
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 671.53,
+      "norm_value": 0.07893482835244021
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 738.16,
+      "norm_value": 0.21539714844865293
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 723.0799999999999,
+      "norm_value": 0.18562293478999795
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 576.98,
+      "norm_value": -0.13996051282415342
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 595.86,
+      "norm_value": -0.09351634260396906
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 787.51,
+      "norm_value": 0.3087495838625972
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 653.76,
+      "norm_value": 0.040249923990667937
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 171.85,
+      "norm_value": -1.8867427290068606
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 342.85999999999996,
+      "norm_value": -0.890691522604041
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 384.46999999999997,
+      "norm_value": -0.7254856212975898
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1590.89,
+      "norm_value": 1.3231210178055957
+    },
+    {
+      "gene_symbol": "Rpl27a",
+      "row_id": 24,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 392.27,
+      "norm_value": -0.6965171053169047
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2304.3,
+      "norm_value": 0.11106086277206324
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 2154.19,
+      "norm_value": 0.013882171358736201
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2198.27,
+      "norm_value": 0.04310392154427563
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1803.25,
+      "norm_value": -0.24265087329282584
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 2079.88,
+      "norm_value": -0.03676064392574349
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2716.15,
+      "norm_value": 0.3482859692488412
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2380.44,
+      "norm_value": 0.15795857041551037
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 394.53999999999996,
+      "norm_value": -2.4347212026000364
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 1263.65,
+      "norm_value": -0.7556192080294272
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1582.67,
+      "norm_value": -0.430878674478842
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 5526.509999999999,
+      "norm_value": 1.3730645083563675
+    },
+    {
+      "gene_symbol": "Rpl3",
+      "row_id": 25,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1198.8600000000001,
+      "norm_value": -0.8315467721514153
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 394.53999999999996,
+      "norm_value": -0.23181424720505905
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 391.69,
+      "norm_value": -0.24227086474629494
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 367.94,
+      "norm_value": -0.3324888672113759
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 366.71999999999997,
+      "norm_value": -0.337279139009916
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 441.01,
+      "norm_value": -0.07121297283394228
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 473.92999999999995,
+      "norm_value": 0.032626926396717444
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 421.2,
+      "norm_value": -0.13750352374993496
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 131.82,
+      "norm_value": -1.8126881357620845
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 304.32,
+      "norm_value": -0.6062882944979835
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 310.06,
+      "norm_value": -0.5793387994483711
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1688.66,
+      "norm_value": 1.865540967738742
+    },
+    {
+      "gene_symbol": "Rpl30",
+      "row_id": 26,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 268.09,
+      "norm_value": -0.7890959951719748
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2153.7000000000003,
+      "norm_value": 0.312580722974755
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1982.65,
+      "norm_value": 0.19319921749924474
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1496.5300000000002,
+      "norm_value": -0.21258596632641544
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1517.01,
+      "norm_value": -0.19297787189115978
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1679.0300000000002,
+      "norm_value": -0.046589636159560126
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2134.9,
+      "norm_value": 0.29993250412897793
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2029.88,
+      "norm_value": 0.22716194787939947
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 247.5,
+      "norm_value": -2.808220346051973
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 744.26,
+      "norm_value": -1.2202311298606894
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1309.13,
+      "norm_value": -0.4055849995938012
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 4626.95,
+      "norm_value": 1.4157891230637276
+    },
+    {
+      "gene_symbol": "Rpl32",
+      "row_id": 27,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 888.17,
+      "norm_value": -0.9652333934270699
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 282.17999999999995,
+      "norm_value": 0.05060599481051491
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 227.83,
+      "norm_value": -0.25793009659913335
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 195.49,
+      "norm_value": -0.47868830930369544
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 209.93,
+      "norm_value": -0.37592550783020745
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 234.8,
+      "norm_value": -0.21447420694307504
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 314.14,
+      "norm_value": 0.20534591447205874
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 302.76,
+      "norm_value": 0.15213012759142297
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 69.76,
+      "norm_value": -1.9639823724477696
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 124.42,
+      "norm_value": -1.1301434383734548
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 150.17000000000002,
+      "norm_value": -0.8589639028635765
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1022.4499999999999,
+      "norm_value": 1.907578563471144
+    },
+    {
+      "gene_symbol": "Rpl36",
+      "row_id": 28,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 135.51000000000002,
+      "norm_value": -1.0070573523022037
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 357.87,
+      "norm_value": 0.1850823784258244
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 303.34,
+      "norm_value": -0.05334503102067504
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 244.15,
+      "norm_value": -0.3663977455718026
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 295.39,
+      "norm_value": -0.09164700035597256
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 282.46999999999997,
+      "norm_value": -0.15614800256308822
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 285.42999999999995,
+      "norm_value": -0.14111397346478521
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 272.2,
+      "norm_value": -0.20955932538375405
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 38.23,
+      "norm_value": -3.0382104045143943
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 149.73000000000002,
+      "norm_value": -1.0714297886554374
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 199.77,
+      "norm_value": -0.6556943644434995
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1192.98,
+      "norm_value": 1.921862570920911
+    },
+    {
+      "gene_symbol": "Rpl36a",
+      "row_id": 29,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 155.68,
+      "norm_value": -1.015246284590269
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 298.96999999999997,
+      "norm_value": -0.12048910763782197
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 285.58,
+      "norm_value": -0.18657226818610018
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 249.27,
+      "norm_value": -0.38268439239408264
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 219.26000000000002,
+      "norm_value": -0.5676718309929399
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 238.96,
+      "norm_value": -0.4435995516159151
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 260.76,
+      "norm_value": -0.31769656745921215
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 233.21,
+      "norm_value": -0.4787241626043135
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 75.19000000000001,
+      "norm_value": -2.110442142902896
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 158.28,
+      "norm_value": -1.037582141770824
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 195.71,
+      "norm_value": -0.7315178620869766
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1505.74,
+      "norm_value": 2.2115242751583115
+    },
+    {
+      "gene_symbol": "Rpl37",
+      "row_id": 30,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 179.3,
+      "norm_value": -0.8577924169655423
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 340.2,
+      "norm_value": 0.03249856120601462
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 317.62,
+      "norm_value": -0.06655268168653457
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 260.37,
+      "norm_value": -0.35319137246297955
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 252.5,
+      "norm_value": -0.3974539509714417
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 241.57,
+      "norm_value": -0.4612701965857826
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 290.95,
+      "norm_value": -0.1930415725110777
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 239.1,
+      "norm_value": -0.4760912005608888
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 37.76,
+      "norm_value": -3.135562273942651
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 154.02,
+      "norm_value": -1.1102544989868062
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 214.26000000000002,
+      "norm_value": -0.6342728689350633
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1432.3000000000002,
+      "norm_value": 2.106053928561531
+    },
+    {
+      "gene_symbol": "Rpl39",
+      "row_id": 31,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 210.77,
+      "norm_value": -0.6579547293409085
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 965.35,
+      "norm_value": -0.18519722853426837
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1068.0400000000002,
+      "norm_value": -0.03936992660220012
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 949.31,
+      "norm_value": -0.20936752789994842
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 798.9599999999999,
+      "norm_value": -0.45809493681252234
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 796.74,
+      "norm_value": -0.4621087034102237
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 1046.3000000000002,
+      "norm_value": -0.06903623261224395
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 956.7099999999999,
+      "norm_value": -0.19816630565655907
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 309.82,
+      "norm_value": -1.8245029143944353
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 683.5799999999999,
+      "norm_value": -0.6830775513165772
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 825.4399999999999,
+      "norm_value": -0.4110606535204256
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 4087.36,
+      "norm_value": 1.896733933864155
+    },
+    {
+      "gene_symbol": "Rpl9",
+      "row_id": 32,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 683.49,
+      "norm_value": -0.6832674809630517
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 4729.86,
+      "norm_value": -0.13607591557449505
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 5114.03,
+      "norm_value": -0.023415064687239626
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 4935.21,
+      "norm_value": -0.07476319165087483
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 4490.96,
+      "norm_value": -0.21084790223510536
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 5388.339999999999,
+      "norm_value": 0.05196376202303601
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 7186.46,
+      "norm_value": 0.46739746047762365
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 6413.679999999999,
+      "norm_value": 0.30327096982928453
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 1283.65,
+      "norm_value": -2.0175396221632123
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 3666.42,
+      "norm_value": -0.5034924897463637
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 4405.889999999999,
+      "norm_value": -0.23843767805889435
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 11390.699999999999,
+      "norm_value": 1.1318932703120734
+    },
+    {
+      "gene_symbol": "Rplp0",
+      "row_id": 33,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 3367.39,
+      "norm_value": -0.6262302371978212
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 102.15,
+      "norm_value": -0.2870546146576784
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 93.48,
+      "norm_value": -0.4148833240138412
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 87.07000000000001,
+      "norm_value": -0.5172518431460476
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 100.38000000000001,
+      "norm_value": -0.3122470884825251
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 121.47,
+      "norm_value": -0.03736820100887635
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 167.46,
+      "norm_value": 0.4255223314923713
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 129.94,
+      "norm_value": 0.0598000033162038
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 73.24000000000001,
+      "norm_value": -0.766483286662486
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 96.51,
+      "norm_value": -0.3689110240679538
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 99.45,
+      "norm_value": -0.325662236766287
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 353.34,
+      "norm_value": 1.502309865981123
+    },
+    {
+      "gene_symbol": "Rps10",
+      "row_id": 34,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 71.44000000000001,
+      "norm_value": -0.8023334343789266
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2674.83,
+      "norm_value": 0.1547185243186297
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 2190.61,
+      "norm_value": -0.13338409685926209
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1919.1100000000001,
+      "norm_value": -0.32427003404053356
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2068.34,
+      "norm_value": -0.21623950453953764
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 2417.11,
+      "norm_value": 0.008560201659523243
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2810.06,
+      "norm_value": 0.22586966051069254
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2784.6800000000003,
+      "norm_value": 0.21278074399211458
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 642.65,
+      "norm_value": -1.902453003762191
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 1295.8200000000002,
+      "norm_value": -0.8908059537093916
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1726.95,
+      "norm_value": -0.4764727628516102
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 6835.24,
+      "norm_value": 1.508230487484144
+    },
+    {
+      "gene_symbol": "Rps14",
+      "row_id": 35,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1468.41,
+      "norm_value": -0.7104295240276944
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 814.78,
+      "norm_value": -0.22029165818775387
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 883.84,
+      "norm_value": -0.10293083472026321
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 690.64,
+      "norm_value": -0.4587365095709478
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 764.51,
+      "norm_value": -0.31215521186201234
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 694.9,
+      "norm_value": -0.4498663026996931
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 850.65,
+      "norm_value": -0.1581440343455544
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 782.62,
+      "norm_value": -0.2783829715579009
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 210.97,
+      "norm_value": -2.169157741769757
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 565.31,
+      "norm_value": -0.7475818812315738
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 838.73,
+      "norm_value": -0.17850082148894925
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3645.57,
+      "norm_value": 1.9412327912770484
+    },
+    {
+      "gene_symbol": "Rps15a",
+      "row_id": 36,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 648.04,
+      "norm_value": -0.5505738077186381
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 751.04,
+      "norm_value": -0.029015733917834952
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 624.3,
+      "norm_value": -0.2956270237582714
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 577.09,
+      "norm_value": -0.4090512561780797
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 516.77,
+      "norm_value": -0.5682960927952005
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 559.99,
+      "norm_value": -0.4524388908305994
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 690.4599999999999,
+      "norm_value": -0.15033079113552567
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 634.4399999999999,
+      "norm_value": -0.2723864498324383
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 104.59,
+      "norm_value": -2.8719739186088
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 351,
+      "norm_value": -1.1262155648554253
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 504.31,
+      "norm_value": -0.6035006834900385
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3480.1600000000003,
+      "norm_value": 2.183025623421453
+    },
+    {
+      "gene_symbol": "Rps18",
+      "row_id": 37,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 401.48999999999995,
+      "norm_value": -0.9323742159139699
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 1311.02,
+      "norm_value": 0.21332836953738807
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1271.3200000000002,
+      "norm_value": 0.16896932350971233
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 975.77,
+      "norm_value": -0.2127104865922777
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1082.48,
+      "norm_value": -0.06299772393756836
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1079.7,
+      "norm_value": -0.06670724254514354
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 1319.14,
+      "norm_value": 0.22223568332326868
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 1238.5600000000002,
+      "norm_value": 0.1313088717593925
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 111.72,
+      "norm_value": -3.3382212092525005
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 592.3299999999999,
+      "norm_value": -0.9327547603744232
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 839.97,
+      "norm_value": -0.4288899118632541
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3180.96,
+      "norm_value": 1.4920362192797252
+    },
+    {
+      "gene_symbol": "Rps19",
+      "row_id": 38,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 566.61,
+      "norm_value": -0.9967887992827547
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2274.2400000000002,
+      "norm_value": 0.29087461139863174
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 2266.31,
+      "norm_value": 0.2858355393046883
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2163.26,
+      "norm_value": 0.2187004279098312
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2011.7,
+      "norm_value": 0.1139135558756189
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1784.94,
+      "norm_value": -0.05861692989708869
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2367.07,
+      "norm_value": 0.3485899848753661
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2174.21,
+      "norm_value": 0.22598431269351635
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 276.15999999999997,
+      "norm_value": -2.7504747401635044
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 1407.6000000000001,
+      "norm_value": -0.40123342427636566
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1801.3300000000002,
+      "norm_value": -0.04543074050637689
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2618.61,
+      "norm_value": 0.4942829691617858
+    },
+    {
+      "gene_symbol": "Rps20",
+      "row_id": 39,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1162.0700000000002,
+      "norm_value": -0.6777522142457696
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2286.77,
+      "norm_value": 0.7851190133478787
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 1725.24,
+      "norm_value": 0.37862534823487054
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 1353.1100000000001,
+      "norm_value": 0.028130400644286596
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1133,
+      "norm_value": -0.22798015330754376
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 1069.73,
+      "norm_value": -0.310873777734253
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 1122.4,
+      "norm_value": -0.2415398979530011
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 989.86,
+      "norm_value": -0.42281320450088294
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 263.76,
+      "norm_value": -2.33041077670508
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 683.85,
+      "norm_value": -0.9562925767141461
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 984.25,
+      "norm_value": -0.4310120597588372
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 3604.19,
+      "norm_value": 1.4414597516754202
+    },
+    {
+      "gene_symbol": "Rps24",
+      "row_id": 40,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 707.59,
+      "norm_value": -0.907065904338886
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 544.53,
+      "norm_value": -0.40274049091953307
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 631.9399999999999,
+      "norm_value": -0.18800107852126238
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 682.9499999999999,
+      "norm_value": -0.07602575462612973
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 530.3299999999999,
+      "norm_value": -0.4408545703058014
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 594.24,
+      "norm_value": -0.2767284640262857
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 802.65,
+      "norm_value": 0.15693381610411927
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 776.9,
+      "norm_value": 0.10989765478605934
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 123.87,
+      "norm_value": -2.5380259045868567
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 369.59999999999997,
+      "norm_value": -0.96166190032177
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 518.36,
+      "norm_value": -0.4737842566940603
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2548.1600000000003,
+      "norm_value": 1.823423634903936
+    },
+    {
+      "gene_symbol": "Rps26",
+      "row_id": 41,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 515.39,
+      "norm_value": -0.48207250284974457
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 951.31,
+      "norm_value": -0.06393319510477483
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 972.12,
+      "norm_value": -0.03271757144463091
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 962.11,
+      "norm_value": -0.04764859118724132
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 825.54,
+      "norm_value": -0.26848751715871094
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 943.14,
+      "norm_value": -0.07637548422605395
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 1275.72,
+      "norm_value": 0.3593525104176563
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 1272.4,
+      "norm_value": 0.3555933669461192
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 248.46,
+      "norm_value": -2.0004062376698224
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 563.9599999999999,
+      "norm_value": -0.8181517515854604
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 729.79,
+      "norm_value": -0.4463213290335058
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2500.8,
+      "norm_value": 1.3303750822830231
+    },
+    {
+      "gene_symbol": "Rps27a",
+      "row_id": 42,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 687.75,
+      "norm_value": -0.5319063946784205
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 201.1,
+      "norm_value": -0.4005162007761905
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 201.94,
+      "norm_value": -0.39450555903787726
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 158.78,
+      "norm_value": -0.741208977940706
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 157.8,
+      "norm_value": -0.7501353347214805
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 160.45000000000002,
+      "norm_value": -0.7261238408559477
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 167.51000000000002,
+      "norm_value": -0.6640382797938951
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 179.39000000000001,
+      "norm_value": -0.565243037092968
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 44.67,
+      "norm_value": -2.5685422825655353
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 86.5,
+      "norm_value": -1.6167075758549925
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 113.80000000000001,
+      "norm_value": -1.2213787588736056
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 1624.13,
+      "norm_value": 2.612537529597057
+    },
+    {
+      "gene_symbol": "Rps28",
+      "row_id": 43,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 89.7,
+      "norm_value": -1.5643591558405705
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 2271.84,
+      "norm_value": 0.11449064999958501
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 2218.98,
+      "norm_value": 0.08052759403781261
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2142.78,
+      "norm_value": 0.03011697721688432
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 1903.8000000000002,
+      "norm_value": -0.1404763801414452
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 2110.26,
+      "norm_value": 0.008055039958658713
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 2555.79,
+      "norm_value": 0.28439166213505473
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2352.82,
+      "norm_value": 0.16501818432416518
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 684.65,
+      "norm_value": -1.615784818955769
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 1364.41,
+      "norm_value": -0.6210511173583928
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 1761.8300000000002,
+      "norm_value": -0.2522774766652132
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 4350.99,
+      "norm_value": 1.0519427735734312
+    },
+    {
+      "gene_symbol": "Rps3a1",
+      "row_id": 44,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1464.02,
+      "norm_value": -0.5194002825314267
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 6974.96,
+      "norm_value": 0.39909336427709224
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 6720.679999999999,
+      "norm_value": 0.3455164160694893
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 5660,
+      "norm_value": 0.09771527925238871
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 4742,
+      "norm_value": -0.15758617662493696
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 5117.32,
+      "norm_value": -0.04769561894115634
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 6153.5199999999995,
+      "norm_value": 0.21832309383799145
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 6026.99,
+      "norm_value": 0.18834934522018645
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 918.05,
+      "norm_value": -2.526310488913007
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 2961.2000000000003,
+      "norm_value": -0.8368816100697347
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 4374.36,
+      "norm_value": -0.274007326724569
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 10548.5,
+      "norm_value": 0.9958673705415805
+    },
+    {
+      "gene_symbol": "Rps5",
+      "row_id": 45,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 3274.52,
+      "norm_value": -0.6917847626300037
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 612.78,
+      "norm_value": -0.045232741337018254
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 702.81,
+      "norm_value": 0.1525026119773584
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 574.53,
+      "norm_value": -0.13820405334757635
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 499.04999999999995,
+      "norm_value": -0.3413639414384368
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 495.52,
+      "norm_value": -0.35160296125362067
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 550.13,
+      "norm_value": -0.20080256633494134
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 570.4,
+      "norm_value": -0.14861048118232684
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 175.75,
+      "norm_value": -1.846492032733064
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 403.59999999999997,
+      "norm_value": -0.647553780877861
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 550.34,
+      "norm_value": -0.20025205444261618
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 2069.34,
+      "norm_value": 1.710331147802144
+    },
+    {
+      "gene_symbol": "Rps7",
+      "row_id": 46,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 383.39,
+      "norm_value": -0.7216484096252014
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 3055.4500000000003,
+      "norm_value": 0.18536597017080345
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 3032.83,
+      "norm_value": 0.17464608212912572
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 2732.6800000000003,
+      "norm_value": 0.024303202839792246
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 2374.3,
+      "norm_value": -0.1785031217559128
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 2728.4100000000003,
+      "norm_value": 0.022047212376039887
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 3116.4,
+      "norm_value": 0.21386059392153067
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 2813.71,
+      "norm_value": 0.06645879634556347
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 959.12,
+      "norm_value": -1.4861324740617317
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 2118.96,
+      "norm_value": -0.3426416814348015
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 2216.09,
+      "norm_value": -0.27798454596577615
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 5182.389999999999,
+      "norm_value": 0.9475793087227001
+    },
+    {
+      "gene_symbol": "Rps9",
+      "row_id": 47,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 1914.0300000000002,
+      "norm_value": -0.4893773036395146
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 1,
+      "population": "MMP4_135+_BM",
+      "value": 50.22,
+      "norm_value": -1.5043879791697337
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 2,
+      "population": "preT_DN1_Th",
+      "value": 228.15,
+      "norm_value": 0.677023053709924
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 3,
+      "population": "preT_DN2a_Th",
+      "value": 320.13,
+      "norm_value": 1.1655166632029121
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 4,
+      "population": "preT_DN2b_Th",
+      "value": 485.14,
+      "norm_value": 1.7651066751687512
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 5,
+      "population": "preT_DN3_Th",
+      "value": 281.84999999999997,
+      "norm_value": 0.981847536451711
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 6,
+      "population": "T_DN4_Th",
+      "value": 101.75,
+      "norm_value": -0.48714582619577246
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 7,
+      "population": "T_ISP_Th",
+      "value": 62.25,
+      "norm_value": -1.1951303413319905
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 8,
+      "population": "T_DP_Th",
+      "value": 4.32,
+      "norm_value": -5.013401626657591
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 9,
+      "population": "T_4_Th",
+      "value": 2.19,
+      "norm_value": -5.962100397952079
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 10,
+      "population": "T_8_Th",
+      "value": 0,
+      "norm_value": -10.47937609116166
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 11,
+      "population": "NKT_19-8-TCRb+CD1daGalCerTet+_Th",
+      "value": 0.9700000000000001,
+      "norm_value": -7.059837199647877
+    },
+    {
+      "gene_symbol": "Tmem121",
+      "row_id": 48,
+      "col_id": 12,
+      "population": "Tgd_g1_1+d1_24a+_Th",
+      "value": 174.97,
+      "norm_value": 0.29434007818955144
+    }
+  ],
+  "hcrows": [
+    7,
+    16,
+    9,
+    48,
+    6,
+    11,
+    5,
+    10,
+    43,
+    34,
+    27,
+    38,
+    29,
+    31,
+    37,
+    19,
+    23,
+    22,
+    41,
+    28,
+    30,
+    36,
+    32,
+    46,
+    26,
+    20,
+    35,
+    2,
+    40,
+    45,
+    18,
+    25,
+    21,
+    24,
+    39,
+    44,
+    47,
+    33,
+    42,
+    4,
+    12,
+    8,
+    17,
+    14,
+    15,
+    1,
+    3,
+    13
+  ],
+  "hccols": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ]
+}

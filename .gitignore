@@ -4,3 +4,4 @@ dist/
 __pycache__/
 venv/
 /examples/.ipynb_checkpoints
+/examples/data/wt_thymus_data/piccolo_counts.csv

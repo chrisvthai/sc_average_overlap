@@ -127,6 +127,11 @@ all_markers = ao.get_all_cluster_markers(adata, groupby='leiden', n_genes=25)
 ao.make_ao_dendrogram(adata, groupby='leiden', genes_to_filter=all_markers)
 ```
 
+## Additional Information
+Example code for utilizing the average overlap metric can be found in `examples/`. We have prepared a manuscript that outlines our work with the average overlap metric in scRNA-seq analysis, found [here](https://www.biorxiv.org/content/10.1101/2025.05.06.652497v1). Within the `examples/` folder, we have provided the code we have used to prepare the figures in the manuscript.
+
+Additionally, we provide a simple tutorial for utilizing the `sc_average_overlap` package with an analysis of PBMCs.
+
 
 ## Authors
 

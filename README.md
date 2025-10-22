@@ -1,4 +1,5 @@
-# sc_average_overlap
+# CANTAO: GUIDING CLUSTERING AND ANNOTATION IN SINGLE-CELL RNA SEQUENCING USING AVERAGE OVERLAP
+## sc_average_overlap
 A Python package for comparing clusters in single-cell RNA-seq data using the average overlap metric. This package is designed to work seamlessly with the [Scanpy][] toolkit.
 
 [Scanpy]: https://github.com/scverse/scanpy
@@ -9,10 +10,10 @@ We recommend a Python version of 3.9.0+ in order to use the package.
 
 ### Installation
 
-Currently, the sc_average_overlap package may be downloaded from TestPyPI. 
+Currently, the CANTAO method is implemented as the 'sc_average_overlap' package, which may be downloaded from PyPI. 
 
 ```
-pip install -i https://test.pypi.org/simple/ sc-average-overlap
+pip install sc-average-overlap
 ```
 
 ## Instructions for Use
